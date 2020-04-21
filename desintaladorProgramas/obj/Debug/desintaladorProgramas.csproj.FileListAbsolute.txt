@@ -1,0 +1,9 @@
+c:\users\samv\documents\visual studio 2015\Projects\desintaladorProgramas\desintaladorProgramas\bin\Debug\desintaladorProgramas.exe.config
+C:\Users\samv\Documents\Visual Studio 2015\Projects\desintaladorProgramas\desintaladorProgramas\bin\Debug\desintaladorProgramas.exe
+C:\Users\samv\Documents\Visual Studio 2015\Projects\desintaladorProgramas\desintaladorProgramas\bin\Debug\desintaladorProgramas.pdb
+C:\Users\samv\Documents\Visual Studio 2015\Projects\desintaladorProgramas\desintaladorProgramas\obj\Debug\desintaladorProgramas.Properties.Resources.resources
+C:\Users\samv\Documents\Visual Studio 2015\Projects\desintaladorProgramas\desintaladorProgramas\obj\Debug\desintaladorProgramas.csproj.GenerateResource.Cache
+C:\Users\samv\Documents\Visual Studio 2015\Projects\desintaladorProgramas\desintaladorProgramas\obj\Debug\desintaladorProgramas.exe
+C:\Users\samv\Documents\Visual Studio 2015\Projects\desintaladorProgramas\desintaladorProgramas\obj\Debug\desintaladorProgramas.pdb
+C:\Users\samv\Documents\Visual Studio 2015\Projects\desintaladorProgramas\desintaladorProgramas\obj\Debug\desintaladorProgramas.csprojResolveAssemblyReference.cache
+C:\Users\samv\Documents\Visual Studio 2015\Projects\desintaladorProgramas\desintaladorProgramas\obj\Debug\desintaladorProgramas.ventanaPrincipal.resources
