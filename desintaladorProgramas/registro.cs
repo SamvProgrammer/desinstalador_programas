@@ -22,5 +22,6 @@ namespace desintaladorProgramas
 
         public string DisplayIcon { get; set; }
         public string ModifyPath { get; internal set; }
+        public string size { get; set; }
     }
 }
